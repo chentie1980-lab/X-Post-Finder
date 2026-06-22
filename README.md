@@ -1,7 +1,6 @@
 # X-Post-Finder
-# X Post Finder v1.1.16
 
-X Post Finder v1.1.16 is a Chrome browser extension designed to help users discover, organize, and analyze content on X (formerly Twitter).
+X Post Finder is a Chrome browser extension designed to help users discover, organize, and analyze content on X (formerly Twitter).
 
 ## Core Features
 
